@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Python, Machine Learning, Data Science, and DSA**
 
-- 📫 How to reach me **saarthakmadaan@example.com**
+- 📫 How to reach me **madaansaarthak@gmail.com**
 
 - ⚡ Fun fact **I enjoy solving complex problems and optimizing machine learning models.**
 
