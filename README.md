@@ -10,15 +10,10 @@
 <p align="left"> <a href="https://twitter.com/saarthakmadaan" target="blank"><img src="https://img.shields.io/twitter/follow/saarthakmadaan?logo=twitter&style=for-the-badge" alt="saarthakmadaan" /></a> </p>
 
 - 🔭 I’m currently working on **Sales Forecasting and Demand Prediction**
-
 - 🌱 I’m currently learning **Deep Learning and Advanced Data Analysis**
-
 - 🤝 I’m looking for help with **contributing to open-source machine learning projects**
-
 - 💬 Ask me about **Python, Machine Learning, Data Science, and DSA**
-
 - 📫 How to reach me **madaansaarthak@gmail.com**
-
 - ⚡ Fun fact **I enjoy solving complex problems and optimizing machine learning models.**
 
 <h3 align="left">Connect with me:</h3>
@@ -43,8 +38,12 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saarthakmadaan&show_icons=true&locale=en&layout=compact" alt="saarthakmadaan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saarthakmadaan&show_icons=true&locale=en" alt="saarthakmadaan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saarthakmadaan&" alt="saarthakmadaan" /></p>
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=saarthakmadaan&show_icons=true&locale=en" alt="saarthakmadaan" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saarthakmadaan&" alt="saarthakmadaan" />
+</p>
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saarthakmadaan&show_icons=true&locale=en&layout=compact" alt="saarthakmadaan" />
+</p>
